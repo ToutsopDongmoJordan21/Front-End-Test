@@ -1,0 +1,24 @@
+.bg-dark {
+    background-color: #111418 !important;
+}
+.p-4 {
+    padding: 1.5rem!important;
+}
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+.div {
+    display: block;
+}
+.g-5, .gx-5 {
+    --bs-gutter-x: 3rem;
+}
+.text-light {
+    color: #dee3e4 !important;
+}
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
