@@ -48,14 +48,11 @@ a {
     margin-left: -01px !important;
 
 }
-/* .r1 {
-    align-items: center !important;
-} */
 .rounded {
     background-color:#FFFFFF ;
     align-items: center !important;
-    width: 85%;
-    margin-left: 15%;
+    width: 95%;
+    margin-left: 03%;
     border-radius: 30px !important;
 }
 .l2 {
@@ -260,6 +257,10 @@ a {
 
 
 /* ..........................second div ............................................ */
+/* ..........................second div ............................................ */
+/* ..........................second div ............................................ */
+/* ..........................second div ............................................ */
+
 
 
 .img-fluid {
@@ -289,15 +290,15 @@ a {
     height: 70%;
     float: left;
     margin-top: -50px;
-    margin-left: 255px;
+    margin-left: 290px;
 }
 .fa-bell {
-    margin-left: 06px;
+    margin-left: 10px;
     color: #0D3D40;
 }
 .badge {
     position: absolute;
-    right: -215px;
+    right: -240px;
     border-radius: 50%;
     background-color: red;
     color: #F9F9F9;  
@@ -378,7 +379,7 @@ a {
 .image2 {
     position: relative;
     top:10px;
-    left:-05px;
+    margin-left: 05%;
 }
 .d122 {
     color: #428784;
@@ -395,7 +396,7 @@ a {
 .d132 {
     font-weight: bold;
     color: #52B29E;
-    font-size: small;
+    font-size: medium;
 }
 .r1 {
     margin-bottom: 20px;
@@ -417,4 +418,126 @@ a {
     margin-bottom: 25px;
     height: 80px;
     border-radius: 10px !important;
+}
+
+
+/* ..........................third div ............................................ */
+/* ..........................third div ............................................ */
+/* ..........................third div ............................................ */
+/* ..........................third div ............................................ */
+
+
+
+
+.t1 {
+    max-height: 150px;
+    border-radius: 30px;
+    margin-top: 01%;
+    margin-bottom: 25px;
+}
+.t13 {
+    margin-top: 05%;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: -01px !important;
+
+}
+.t2 {
+    margin-top: 20px;
+}
+.t21 {
+    margin-left: 10px;
+    float: left;
+}
+.t22 {
+    font-size:x-large;
+    font-weight: bold;
+    color: #244447;
+}
+.t23 {
+    color: #83CABA;
+    font-size: small;
+    margin-top: -05px;
+}
+.t24 {
+    color: #CED5D5;
+    font-size: small;
+    margin-top: -05px;
+}
+.t3 {
+    float: right;
+}
+.t32 {
+    background-color: #F9F9F9;
+    color: #428784;
+    margin-top: -90px;
+    border-radius: 15px !important;
+    font-size: small;
+    height: 25px;
+    float: right;
+    margin-right: -160%;
+}
+.x {
+    font-size: smaller;
+    margin-left: 05%;
+    margin-bottom: 10px;
+}
+.g {
+    margin-left: 10px;
+}
+.img2 {
+    position: relative;
+    top:10px;
+    left:-05px;
+}
+.card-body {
+    margin-top: -35%;
+}
+.t3 {
+    float: left;
+    margin-top: 30px;
+}
+.expenses {
+    font-size: large;
+    color: #244447;
+    font-weight: bold;
+    margin-left: 25px;
+}
+.v1 {
+    margin-top: -10.3%;
+    color: #244447;
+    font-size: small;
+    float: left;
+    margin-left: 35%;
+}
+.t131 {
+    font-weight: bold;
+    color: #52B29E;
+    font-size: medium;
+}
+.t132 {
+    font-weight: bold;
+    color: #52B29E;
+    font-size: medium;
+}
+.t134 {
+    font-weight: bold;
+    color: #52B29E;
+    font-size: small;
+}
+.image3 {
+    position: relative;
+    top:15px;
+    margin-left: 05%;
+}
+.R11 {
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -01%;
+    background-color: #EAEEEF;
+    border-radius: 10px !important;
+}.image4 {
+    position: relative;
+    top:15px;
+    margin-left: 05%;
 }
