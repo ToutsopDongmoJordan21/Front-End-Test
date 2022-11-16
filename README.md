@@ -105,5 +105,4 @@ III. Ressources used
 
 -- https://stackoverflow.com/questions/57816595/increase-decrease-font-size-of-all-elements-in-page-in-angular
 
--- https://stackoverflow.com/questions/22297964/bootstrap-tabs-next-previous-buttons-for-forms
 
