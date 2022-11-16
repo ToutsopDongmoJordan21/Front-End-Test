@@ -34,18 +34,19 @@ a {
 
 }
 .l11 {
-    margin-top: 04%;
+    margin-top: 02px;
 }
 .l12 {
     font-size: medium;
     margin-top: 08%;
     font-weight: bold;
+    margin-left: 10px;
 }
 .l13 {
     margin-top: 07%;
     font-weight: bold;
     font-size: larger;
-    margin-left: -01px !important;
+    margin-left: -10px !important;
 
 }
 .rounded {
@@ -57,14 +58,14 @@ a {
 }
 .l2 {
     margin-top: 02%;
-    margin-left:25%;
+    margin-left:35%;
     color: #0D3D40;
     font-family: 'Times New Roman', Times, serif;
 }
 .l3 {
     font-size: small;
     align-items: center !important;
-    margin-left: 30%;
+    margin-left: 35%;
     margin-top: -02%;
 }
 .l31 {
@@ -80,6 +81,7 @@ a {
     border-radius: 10px !important;
     margin-top: 25px;
 }
+
 .progress-sm {
     height: 10px !important;
 }
@@ -117,7 +119,7 @@ a {
 }
 .bb2 {
      color: #BCC2C5;
-     margin-top: -16%;
+     margin-top: -09%;
      margin-right: -33%;
      float: right;
      font-weight: bold;
@@ -150,13 +152,13 @@ a {
 }
 .b31 {
     color: #0D3D40;
-    margin-left: 03%;
+    margin-left: 05%;
 }
 .b32 {
     background-color: #F9F9F9;
     color: #428784;
     width: 60%;
-    margin-top: -15%;
+    margin-top: -12%;
     margin-left: 143%;
     border-radius: 15px !important;
     font-size: small;
@@ -177,16 +179,16 @@ a {
 .c1 {
     background-color: #F9F9F9;
     width: 88%;
-    margin-top: 10%;
+    margin-top: 05%;
     margin-left: 06%;
     height: 80px;
     border-radius: 10px !important;
 }
 .c11 {
     height: 50px;
-    width: 30px;
+    width: 60px;
     margin-left: 05%;
-    margin-top: -01%;
+    margin-top: 04%;
     background-color: #EAEEEF;
     border-radius: 10px !important;
 }
@@ -197,7 +199,7 @@ a {
 }
 .c12 {
     position: relative;
-    top: 01px;
+    top: 18px;
     margin-left: 10px;
 }
 .c121 {
@@ -212,18 +214,18 @@ a {
     font-size: small;
 }
 .c13 {
-    top:01px;
+    top:26px;
     margin-right: -20px;
 }
 .c131 {
     font-weight: bold;
     color: #52B29E;
-    font-size: medium;
+    font-size: small;
 }
 .c132 {
     font-weight: bold;
     color: #F25B62;
-    font-size: medium;
+    font-size: small;
 }
 .d1 {
     background-color: #F9F9F9;
@@ -233,14 +235,16 @@ a {
     height: 80px;
     border-radius: 10px !important;
 }
+
 .e1 {
     background-color: #155E5E;
     margin-left: 20px;
     width: 88%;
     height: 60px;
     margin-top: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border-radius: 15px !important;
+    border-color:#F9F9F9 ;
 }
 .e11 {
     color: white;
@@ -264,11 +268,19 @@ a {
 
 
 .img-fluid {
-  max-width: 85%;
-  height: 30%;
+  max-width: 70%;
+  height: 20%;
   margin-top: 25px;
   margin-left: 10px;
   float: left;
+  border-radius: 50%;
+}
+.p1 {
+    background-color: white;
+    border-radius: 15px;
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 04px;
 }
 .name {
     color: #1F3D42;
@@ -281,37 +293,41 @@ a {
     margin-top: -15px;
 }
 .r12 {
-    margin-top: 20px;
+    margin-top: 25px;
     float: left;
+    margin-left: -20px;
 }
 .circle {
     background-color:#F9F9F9;
     width: 55%;
-    height: 70%;
+    height: 85%;
     float: left;
-    margin-top: -50px;
-    margin-left: 290px;
+    margin-top: 30px;
+    margin-left: 32px;
+    border-radius: 50%;
 }
 .fa-bell {
     margin-left: 10px;
     color: #0D3D40;
 }
+.g1 {
+    background-color: white;
+}
 .badge {
     position: absolute;
-    right: -240px;
+    margin-right: 26px;
     border-radius: 50%;
     background-color: red;
     color: #F9F9F9;  
-    width: 10px;
+    width: 01px;
     height: 01px;
 }
 .tof {
     width: 100%;
 }
 .r122 {
-    margin-top: 07px;
     background-color: #F9F9F9;
-    max-width: 330px;
+    max-width: 360px;
     margin-left: 25px;
     border-radius: 20px;
     margin-bottom: 30px;
@@ -322,26 +338,42 @@ a {
     font-size: smaller;
 }
 .r124 {
-    margin-top: -40px;
+    margin-top: -15px;
     color: #00555C;
     font-size: larger;
     font-weight: bold;
 }
 .r121 {
     float: right;
-    margin-top: -65px;
+    margin-top: 13px;
     color: #BCC2C5;
     font-size: smaller;
     margin-right: -30px;
 }
 .r126 {
-    margin-top: -30px;
+    margin-top: -15px;
     color: #FF9699;
     background-color:#FFF0EF;
     font-size: medium;
     font-weight: bold;
     border-radius: 10px;
     width: 80px;
+}
+.u12 {
+    position: relative;
+    top: 18px;
+    margin-left: 10px;
+}
+.u13 {
+    top:26px;
+    margin-right: -05%;
+    font-weight: bold;
+    color: #FF5057;
+    font-size:small;
+    float: right;
+}
+.u131 {
+     color: #428784;
 }
 .transaction {
     margin-top: 05px;
@@ -352,9 +384,9 @@ a {
 }
 .all {
     float: right;
-    margin-top: -45px;
+    margin-top: -35px;
     color: #BCC2C5;
-    font-size: large;
+    font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 20px;
     font-weight: bold;
@@ -369,17 +401,17 @@ a {
     border-radius: 10px !important;
 }
 .d11 {
-    height: 50px;
+    height: 40px;
     width: 40px;
-    margin-left: 10px;
-    margin-top: -01%;
+    margin-left: 01px;
+    margin-top: 05%;
     background-color: #EAEEEF;
     border-radius: 10px !important;
 }
 .image2 {
     position: relative;
-    top:10px;
-    margin-left: 05%;
+    top:07px;
+    margin-left: -10px;
 }
 .d122 {
     color: #428784;
@@ -408,6 +440,24 @@ a {
     margin-left: 06%;
     margin-bottom: 25px;
     height: 80px;
+    border-radius: 10px !important;
+}
+.u8 {
+    background-color: #F9F9F9;
+    width: 88%;
+    margin-top: -10px;
+    margin-left: 06%;
+    margin-bottom: 25px;
+    height: 70px;
+    border-radius: 10px !important;
+}
+.u81 {
+    background-color: #F9F9F9;
+    width: 88%;
+    margin-top: 10px;
+    margin-left: 06%;
+    margin-bottom: 25px;
+    height: 70px;
     border-radius: 10px !important;
 }
 .d3 {
@@ -448,6 +498,7 @@ a {
 .t21 {
     margin-left: 10px;
     float: left;
+    margin-top: -18px;
 }
 .t22 {
     font-size:x-large;
@@ -470,7 +521,7 @@ a {
 .t32 {
     background-color: #F9F9F9;
     color: #428784;
-    margin-top: -90px;
+    margin-top: -80px;
     border-radius: 15px !important;
     font-size: small;
     height: 25px;
@@ -487,15 +538,15 @@ a {
 }
 .img2 {
     position: relative;
-    top:10px;
-    left:-05px;
+    top:15px;
+    left:05px;
 }
 .card-body {
     margin-top: -35%;
 }
 .t3 {
     float: left;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .expenses {
     font-size: large;
@@ -504,40 +555,15 @@ a {
     margin-left: 25px;
 }
 .v1 {
-    margin-top: -10.3%;
+    margin-top: -09%;
     color: #244447;
     font-size: small;
     float: left;
     margin-left: 35%;
 }
-.t131 {
-    font-weight: bold;
-    color: #52B29E;
-    font-size: medium;
-}
-.t132 {
-    font-weight: bold;
-    color: #52B29E;
-    font-size: medium;
-}
-.t134 {
-    font-weight: bold;
-    color: #52B29E;
-    font-size: small;
-}
-.image3 {
-    position: relative;
-    top:15px;
-    margin-left: 05%;
-}
-.R11 {
-    height: 50px;
-    margin-left: 10px;
-    margin-top: -01%;
-    background-color: #EAEEEF;
-    border-radius: 10px !important;
-}.image4 {
-    position: relative;
-    top:15px;
-    margin-left: 05%;
+.fasse {
+     margin-top: -58px;
+     float: right;
+     margin-right: -90px;
+     font-weight: bold;
 }
